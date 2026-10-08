@@ -6,7 +6,7 @@
   <body>
     This is my page
     <p>Here is a link to another page: a href="page1.html> Another page </a></p>
-    <li><a href="page2.html>Other page</a></li>
+    <ul><li><a href="page2.html>Other page</a></li></ul>
     <img src="./figures/image.png" width="500">
   </body>
 </html>
