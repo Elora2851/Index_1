@@ -1,7 +1,7 @@
 # Index_1
 <html>
   <head>
-    <title>My page</title>title>
+    <title>My page</title>
   </head>
   <body>
     This is my page
